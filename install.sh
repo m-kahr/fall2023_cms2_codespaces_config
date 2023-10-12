@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+##!/bin/bash
 #install vscode extensions
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
